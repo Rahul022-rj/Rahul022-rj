@@ -11,7 +11,7 @@
 🌱 Learning **LangChain, FastAPI, and MLOps**  
 💬 Ask me about **React, Node.js, Python, Machine Learning**  
 📫 Reach me at **rahuljaiswal.rj022@gmail.com**  
-📄 [My Resume](link-to-your-resume)
+📄 [My Resume](https://drive.google.com/file/d/1AA7cMpFPI0xEOL6oehqv1SkWcNSOORLN/view?usp=drive_link)
 
 ---
 
